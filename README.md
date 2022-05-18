@@ -10,7 +10,7 @@ Um repositório divido em camadas para o controle dos dados para a integração,
 
 O conceito é mais amplo que um Data Warehouse, pois aceita dados não estruturados e semi estruturados.
 
-Este projeto foi desenvolvido "on premise" porém pode ser ampliado para Cloud, utilizando-se ferramentas como Nifi.
+Este projeto foi desenvolvido "on premise" porém pode ser ampliado para Cloud, utilizando-se ferramentas como Nifi e AWS.
 
 
 O projeto esta divido em 04 partes:
